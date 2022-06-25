@@ -8,4 +8,4 @@
 
 
 
-- OBS: Este projeto será melhorado, e sim, eu já sei o que fazer. Quando iniciar publicar o projeto melhorado e alterado deixarei aqui o link dele também e o nome do repository.
+- OBS: Este projeto será melhorado, e sim, eu já sei o que fazer. Quando iniciar o desenvolvimento do projeto melhorado e alterado deixarei aqui o link dele também e o nome do repository.
